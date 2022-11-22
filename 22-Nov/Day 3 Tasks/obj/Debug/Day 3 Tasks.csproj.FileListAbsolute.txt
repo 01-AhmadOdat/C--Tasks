@@ -1,0 +1,8 @@
+C:\Users\Ahmad\source\repos\Day 3 Tasks\Day 3 Tasks\bin\Debug\Day 3 Tasks.exe.config
+C:\Users\Ahmad\source\repos\Day 3 Tasks\Day 3 Tasks\bin\Debug\Day 3 Tasks.exe
+C:\Users\Ahmad\source\repos\Day 3 Tasks\Day 3 Tasks\bin\Debug\Day 3 Tasks.pdb
+C:\Users\Ahmad\source\repos\Day 3 Tasks\Day 3 Tasks\obj\Debug\Day 3 Tasks.csproj.AssemblyReference.cache
+C:\Users\Ahmad\source\repos\Day 3 Tasks\Day 3 Tasks\obj\Debug\Day 3 Tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmad\source\repos\Day 3 Tasks\Day 3 Tasks\obj\Debug\Day 3 Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\source\repos\Day 3 Tasks\Day 3 Tasks\obj\Debug\Day 3 Tasks.exe
+C:\Users\Ahmad\source\repos\Day 3 Tasks\Day 3 Tasks\obj\Debug\Day 3 Tasks.pdb

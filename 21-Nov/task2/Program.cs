@@ -9,7 +9,7 @@ namespace task2
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {/*
             Console.WriteLine("insert the first number");
             int x = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("insert the second number");
@@ -124,7 +124,7 @@ namespace task2
             Console.WriteLine("THE TIME IS : " + (thehours)+"HOUR"+ "  &  "+(theminutes)+" "+"MINUTES");
 
             
-
+            */
 
             //TASK 7
             string[] Names = { "Ahmad", "Othman", "Ali", "Khalid", "Samer","Saeed" };
