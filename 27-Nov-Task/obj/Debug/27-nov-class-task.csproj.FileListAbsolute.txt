@@ -1,0 +1,8 @@
+C:\Users\Ahmad\source\repos\27-nov-class-task\bin\Debug\27-nov-class-task.exe.config
+C:\Users\Ahmad\source\repos\27-nov-class-task\bin\Debug\27-nov-class-task.exe
+C:\Users\Ahmad\source\repos\27-nov-class-task\bin\Debug\27-nov-class-task.pdb
+C:\Users\Ahmad\source\repos\27-nov-class-task\obj\Debug\27-nov-class-task.csproj.AssemblyReference.cache
+C:\Users\Ahmad\source\repos\27-nov-class-task\obj\Debug\27-nov-class-task.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmad\source\repos\27-nov-class-task\obj\Debug\27-nov-class-task.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\source\repos\27-nov-class-task\obj\Debug\27-nov-class-task.exe
+C:\Users\Ahmad\source\repos\27-nov-class-task\obj\Debug\27-nov-class-task.pdb
