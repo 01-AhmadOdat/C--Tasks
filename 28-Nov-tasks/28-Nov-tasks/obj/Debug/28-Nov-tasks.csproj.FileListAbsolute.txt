@@ -1,0 +1,8 @@
+C:\Users\Ahmad\source\repos\28-Nov-tasks\28-Nov-tasks\obj\Debug\28-Nov-tasks.csproj.AssemblyReference.cache
+C:\Users\Ahmad\source\repos\28-Nov-tasks\28-Nov-tasks\obj\Debug\28-Nov-tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmad\source\repos\28-Nov-tasks\28-Nov-tasks\obj\Debug\28-Nov-tasks.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\source\repos\28-Nov-tasks\28-Nov-tasks\bin\Debug\28-Nov-tasks.exe.config
+C:\Users\Ahmad\source\repos\28-Nov-tasks\28-Nov-tasks\bin\Debug\28-Nov-tasks.exe
+C:\Users\Ahmad\source\repos\28-Nov-tasks\28-Nov-tasks\bin\Debug\28-Nov-tasks.pdb
+C:\Users\Ahmad\source\repos\28-Nov-tasks\28-Nov-tasks\obj\Debug\28-Nov-tasks.exe
+C:\Users\Ahmad\source\repos\28-Nov-tasks\28-Nov-tasks\obj\Debug\28-Nov-tasks.pdb
