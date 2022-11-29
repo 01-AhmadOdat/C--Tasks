@@ -17,9 +17,10 @@ namespace _27_nov_class_task
         }
         static void Main(string[] args)
         {
-            taxi taxi1;
-            taxi1 = new taxi();
-                        taxi1.welcoming(taxi1.driver);
+            //taxi taxi1;
+            taxi taxi1 = new taxi();
+             taxi1.welcoming(taxi1.driver);
+
             Console.WriteLine("driver name: " + taxi1.driver);
             Console.WriteLine("color: " + taxi1.color);
             Console.WriteLine("model name: " + taxi1.model);
